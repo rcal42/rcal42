@@ -20,4 +20,4 @@ An IAM assessment visualizer and vendor dashboard built for consulting engagemen
 
 Physical AI and AI Incident Response Roles appendices, Incident Response Guide. Data Security Cheat Sheet (forthcoming). Lead, exploratory Physical AI security group (Physical AI Top 10 in draft).
 
-#Talks and writing: [physicalAi.boo](https://physicalai.boo)
+# Talks and writing: [physicalAi.boo](https://physicalai.boo)
