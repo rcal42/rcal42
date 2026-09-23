@@ -8,6 +8,8 @@ Most of my current work lives in private repos (client-adjacent and pre-publicat
 
 Two Seeed reBot 6-DOF arms and two SO-101 arms driven by a foundation-model agent through a custom MCP server on an NVIDIA Jetson Thor. A Python daemon controls the arms; a FastMCP wrapper exposes them as tools. Demoed live at OWASP LA, May 2026 ("AI Got Hands"). Next: two-arm lock/lock-pick demo, OWASP LA, Oct 28, 2026.
 
+Public piece: [juice-bar-twin](https://rcal42.github.io/juice-bar-twin/), a browser prototype of the planned reference lab, where an OWASP Juice Shop breach flows through an agent and MCP server to the arm.
+
 ## Microlocation platform (private)
 
 RTK GNSS surveying and consumer navigation on iOS (Swift), BLE beacon firmware (C++ on ESP32/M5Stack), and GNSS hardware feeding cm-level position to iOS apps. Public piece: [GPSAtomS3](https://github.com/rcal42/GPSAtomS3).
